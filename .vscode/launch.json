@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Challenge38",
+            "request": "launch",
+            "mainClass": "Challenge38",
+            "projectName": "challenge-38-boilerplate_885eb077"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
