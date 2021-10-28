@@ -1,11 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-<<<<<<< HEAD
-public class Challenge38 ss
-=======
-public class Challenge38 remoetly
->>>>>>> 55f01231f6db07f704511c6fa272d0372f9a3546
+public class Challenge38 remoetly local
 {
     public static void main(String[] args) 
     {
