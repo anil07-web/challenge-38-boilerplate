@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.awt.*;
 
-public class Challenge38 remoetly1
+public class Challenge38 remoetly1 sddd
 {
     public static void main(String[] args) remotely2
     {
