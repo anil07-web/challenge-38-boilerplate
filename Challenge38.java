@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class Challenge38 remoetly
+public class Challenge38 remoetly1
 {
     public static void main(String[] args) 
     {
