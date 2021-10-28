@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class Challenge38 {
 
-    public static void main(String[] args) remotely2 remotely2 remotely3 local4 develop develop2
+    public static void main(String[] args) remotely2 remotely2 remotely3 local4 develop develop2 dev2
 
     {
         BinaryTree bin = new BinaryTree();
