@@ -3,7 +3,7 @@ import java.io.FileReader;
 
 public class Challenge38 remoetly1
 {
-    public static void main(String[] args) remotely2 remotely2 remotely3
+    public static void main(String[] args) remotely2 remotely2 remotely3 remotely4
     {
         BinaryTree bin = new BinaryTree();
         BufferedReader buff = null;
