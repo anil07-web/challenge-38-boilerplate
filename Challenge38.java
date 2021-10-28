@@ -5,7 +5,7 @@ import java.awt.*;
 public class Challenge38 remoetly1 sddd lolo
 {
 <<<<<<< Updated upstream
-    public static void main(String[] args) remotely2 remotely2 remotely3 remotely4
+    public static void main(String[] args) remotely2 remotely2 remotely3 remotely4 develop change
 =======
     public static void main(String[] args) remotely2 remotely2 remotely3 local4
 >>>>>>> Stashed changes
